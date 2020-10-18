@@ -1,0 +1,11 @@
+release/in.o
+release/main.o
+release/mainwindow.o
+release/out.o
+release/search.o
+release/showw.o
+release/moc_in.o
+release/moc_mainwindow.o
+release/moc_out.o
+release/moc_search.o
+release/moc_showw.o

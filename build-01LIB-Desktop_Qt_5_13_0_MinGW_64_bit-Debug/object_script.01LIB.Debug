@@ -1,0 +1,11 @@
+debug/in.o
+debug/main.o
+debug/mainwindow.o
+debug/out.o
+debug/search.o
+debug/showw.o
+debug/moc_in.o
+debug/moc_mainwindow.o
+debug/moc_out.o
+debug/moc_search.o
+debug/moc_showw.o
